@@ -1,4 +1,4 @@
-# 🚗 API REST - Sucursal Vehículos (Flujo CI/CD)...
+# 🚗 API REST - Sucursal Vehículos (Flujo CI/CD)
 
 Este repositorio contiene el código fuente de la aplicación Spring Boot "Sucursal Vehículos", junto con la automatización de su despliegue continuo (CI/CD) utilizando Jenkins y Docker en infraestructura AWS.
 
